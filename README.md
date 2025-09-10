@@ -2,8 +2,6 @@
 
 A modern and responsive e-commerce web application built with React.js. This project showcases product collections, interactive banners, and a user-friendly interface for a seamless shopping experience.
 
-![Shopping React Banner](https://github.com/veeramma-538/shopping-react/blob/main/Banner.jpg)
-
 ## 🔧 Features
 
 - **Product Collections**: Display of various product categories.
